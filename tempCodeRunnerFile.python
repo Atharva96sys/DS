@@ -1,0 +1,6 @@
+import numpy as np
+print("Enter Number To Generate Its Table")
+n = input(int)
+print("Enter Number Till Which You Want To Generate Table")
+b = input(int)
+a = np.linspace(n,n*b,b)
