@@ -9,6 +9,7 @@ A structured and evolving repository with my journey through the core concepts a
 
 - `Python Basics` – Core Python syntax, functions, control flow, and OOP concepts
 - `Numpy Combined Notes /` – Array creation, reshaping, broadcasting, and vectorized operation
+
   Currently There Are Few Folder And File which are DS Basics but this will involve with time
 ---
 
