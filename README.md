@@ -1,14 +1,15 @@
-# 📘 Data Science Learning Repository
-
-A structured and evolving repository capturing my journey through the core concepts and tools of Data Science — with focused notes, coding practice, and real-world application.
+# Data Science Learning Repository
+Welcome to my Data Science Repository.
+This Repository Contains My Learning And Work In Field Of Data Science And ML.
+A structured and evolving repository with my journey through the core concepts and tools of Data Science — with focused notes, coding practice, and real-world application.
 
 ---
 
 ## 📂 Repository Contents
 
 - `Python Basics` – Core Python syntax, functions, control flow, and OOP concepts
-- `Numpy Combined Notes /` – Array creation, reshaping, broadcasting, and vectorized operations
-
+- `Numpy Combined Notes /` – Array creation, reshaping, broadcasting, and vectorized operation
+  Currently There Are Few Folder And File which are DS Basics but this will involve with time
 ---
 
 ## 🧠 Current Focus
@@ -25,7 +26,6 @@ A structured and evolving repository capturing my journey through the core conce
 - Python 3.x
 - NumPy
 - Jupyter Notebook
-
 ---
 
 ## 🎯 Goals
@@ -51,7 +51,7 @@ A structured and evolving repository capturing my journey through the core conce
 
 ## 🤝 Connect
 
-- Email: your.email@example.com *(optional)*
+- Email: sawantatharva92@gmail.com
 - LinkedIn: 
 
 ---
