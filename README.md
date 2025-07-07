@@ -78,8 +78,8 @@ This repo reflects my raw process—trial and mastery through code and notes.
 ## Feedback
 
  - Open to Feedback: I’m always looking to improve—not just technically, but also in how I organize and communicate ideas. If you see anything that could be clearer or more optimized, feel free to suggest !
- - Contact Me On LinkedIn or Email
-  LinkedIn :-https://www.linkedin.com/in/atharva-sawant-378b4a2ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BARzdqHAzT9evTZgBuuyE0Q%3D%3D
+ - Contact Me On LinkedIn or Email<br>
+  LinkedIn :-https://www.linkedin.com/in/atharva-sawant-378b4a2ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BARzdqHAzT9evTZgBuuyE0Q%3D%3D<br>
   Email :- sawantatharva92@gmail.com
 
 

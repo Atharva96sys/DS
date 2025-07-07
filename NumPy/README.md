@@ -39,8 +39,8 @@ Soon I'll be adding:
 
 ## 📬 Feedback
 
-If these notes help you or if you spot anything you'd like to discuss, feel free to open an issue or connect with me.You can contact me on LinkedIn or Email Me.
-LinkedIn :- https://www.linkedin.com/in/atharva-sawant-378b4a2ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BARzdqHAzT9evTZgBuuyE0Q%3D%3D
+If these notes help you or if you spot anything you'd like to discuss, feel free to open an issue or connect with me.You can contact me on LinkedIn or Email Me.<br>
+LinkedIn :- https://www.linkedin.com/in/atharva-sawant-378b4a2ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BARzdqHAzT9evTZgBuuyE0Q%3D%3D<br>
 Email :- sawantatharva92@gmail.com
 ---
 
