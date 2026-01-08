@@ -62,8 +62,8 @@ This repo reflects my raw process—trial and mastery through code and notes.
 
 1. Clone the repo to your local machine:
    ```bash
-   git clone https://github.com/your_username/Data-Science-Learning.git
-   cd Data-Science-Learning
+   git clone https://github.com/Atharva96sys/DS.git
+   cd DS
 2. Navigate to Python_Basics/ to refresh your Python fundamentals.
 3. Head into NumPy_Tutorial.txt to dive into structured numerical computing.
 4. Copy, edit, and execute code examples to explore further. The scripts are self-contained and beginner-friendly.
